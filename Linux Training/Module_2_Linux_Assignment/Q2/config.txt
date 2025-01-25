@@ -1,0 +1,6 @@
+server_name = localhost
+db_host = localhost
+api_endpoint = http://localhost:8080/api
+log_server = localhost
+proxy = http://localhost:8000
+
